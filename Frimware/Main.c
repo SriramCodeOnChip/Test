@@ -1,6 +1,6 @@
 // Temperature Monitoring
 int readTemperature() {
-    return 28;
+    return 28+27;
 }
 
 int main() {
