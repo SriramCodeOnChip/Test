@@ -1,5 +1,8 @@
 // Temperature Monitoring
-int main() {
-    return 0;
+int readTemperature() {
+    return 28;
 }
 
+int main() {
+    return readTemperature();
+}
